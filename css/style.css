@@ -131,7 +131,7 @@ background: #f5f5f5;
    fill: white; 
  }
 
- .icon-link:last-child::before {
+ .icon-link:nth-child(4)::before {
    content: "";
    width: 1px;
    height: 16px;
